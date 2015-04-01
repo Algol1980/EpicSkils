@@ -1,0 +1,86 @@
+﻿{"frames": [
+
+{
+   "filename": "Слой 1",
+   "frame": {"x":0, "y":0,"w":986 , "h":79 },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {"x":0,"y":0,"w":986 , "h":79 },
+   "sourceSize": {"w":986 ,"h":79 }
+}
+,{
+   "filename": "planning",
+   "frame": {"x":986, "y":0,"w":986 , "h":79 },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {"x":0,"y":0,"w":986 , "h":79 },
+   "sourceSize": {"w":986 ,"h":79 }
+}
+,{
+   "filename": "inventory",
+   "frame": {"x":1972, "y":0,"w":986 , "h":79 },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {"x":0,"y":0,"w":986 , "h":79 },
+   "sourceSize": {"w":986 ,"h":79 }
+}
+,{
+   "filename": "media",
+   "frame": {"x":0, "y":79,"w":986 , "h":79 },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {"x":0,"y":0,"w":986 , "h":79 },
+   "sourceSize": {"w":986 ,"h":79 }
+}
+,{
+   "filename": "dashboard",
+   "frame": {"x":986, "y":79,"w":986 , "h":79 },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {"x":0,"y":0,"w":986 , "h":79 },
+   "sourceSize": {"w":986 ,"h":79 }
+}
+,{
+   "filename": "settings",
+   "frame": {"x":1972, "y":79,"w":986 , "h":79 },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {"x":0,"y":0,"w":986 , "h":79 },
+   "sourceSize": {"w":986 ,"h":79 }
+}
+,{
+   "filename": "alerts",
+   "frame": {"x":0, "y":158,"w":986 , "h":79 },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {"x":0,"y":0,"w":986 , "h":79 },
+   "sourceSize": {"w":986 ,"h":79 }
+}
+,{
+   "filename": "resources",
+   "frame": {"x":986, "y":158,"w":986 , "h":79 },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {"x":0,"y":0,"w":986 , "h":79 },
+   "sourceSize": {"w":986 ,"h":79 }
+}
+,{
+   "filename": "funds",
+   "frame": {"x":1972, "y":158,"w":986 , "h":79 },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {"x":0,"y":0,"w":986 , "h":79 },
+   "sourceSize": {"w":986 ,"h":79 }
+}
+],
+"meta": {
+   "app": "Adobe Flash Professional",
+   "version": "14.0",
+   "Target": "Edge Animate",
+   "Target Version": "4.0",
+   "image": "sprites.png",
+   "format": "RGBA8888",
+   "size": {"w":2958 ,"h":237 },
+   "scale": "1"
+}
+}
