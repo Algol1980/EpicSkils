@@ -1,0 +1,46 @@
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.wrapper {
+    width: 100%;
+   background-color: #e0e0e0;
+    text-align: center;
+}
+
+.sect {
+    margin: 0 auto;
+/*    border: 1px solid #000;*/
+    margin-top: 30px;
+    overflow: hidden;
+    margin: 0 auto;
+
+    
+}
+.box {
+    width: 24%;
+    display: inline-block;
+    vertical-align: top;
+/*    margin: 0.1%;*/
+    text-align: center;
+   background-color: #e0e0e0;
+/*    width: -webkit-calc(100% / 4);*/
+/*    width: calc(100% / 4);*/
+}
+
+img {
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+}
+a {
+    display: block;
+    height: 20px;
+    background-image: url(http://www.mricons.com/store/png/123253_42228_48_eye_icon.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 10%;
+/*    background-color: gray;*/
+}

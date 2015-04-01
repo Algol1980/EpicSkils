@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css-reset.css">
+    <link rel="stylesheet" href="5.css">
+    <title>Document</title>
+</head>
+<body>
+    <form action="url">
+        <fieldset>
+            <legend>Все, теперь сами!</legend>
+            <h1>Расчет стоимости</h1>
+            <p>Оставьте заявку на лапшу в коробочке и мы привезем ее Вам. Это удобно!</p>
+            <hr>
+            <label for="tel" class="block">Телефон</label>
+            <input type="text" name="telefon" id="tel">
+            <label for="Adress" class="block">Адрес</label>
+            <input type="text" name="Adress" id="Adress"><br>
+            <input type="checkbox" name="Present" id="present">
+             <label for="present">Подарочная упаковка</label>
+                        <input type="checkbox" name="Present" id="discount-card">
+             <label for="discount-card">Есть карта скидок</label>
+             <label for="Delivery" class="block">Способ доставки</label>
+            <select  name="Delivery"  id="Delivery" >  
+                <option value="Очень быстро">Очень быстро</option>
+                <option value="Быстро">Быстро</option>
+                <option value="Обычно">Обычно</option>
+            </select>
+           <input type="submit" value="Отправить">
+        </fieldset>
+    </form>
+</body>
+</html>

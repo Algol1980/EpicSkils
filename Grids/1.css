@@ -1,0 +1,41 @@
+.wrapper {
+    width: 780px;
+    font-family: Georgia;
+    margin: 0 auto;
+    
+}
+
+h1 {
+    font-size: 2em ;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h2 {
+    font-size: 1em ;
+    text-align: center;
+    padding-top: 20px;
+}
+
+section {
+    
+    overflow: hidden;
+/*    text-align: center;*/
+/*    margin: 0 auto;*/
+}
+
+section > div {
+    float: left;
+    width: 27%;
+    margin: 1%;
+    vertical-align: top;
+    display: inline-block;
+    padding: 15px;
+    border: 2px dashed #10887a;
+
+    
+}
+
+section > div:last-child {
+    float: right;
+}

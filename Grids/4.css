@@ -1,0 +1,71 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.wrapper {
+    width: 1200px;
+}
+.container {
+    width: 940px;
+    margin: 0 auto;
+    margin-top: 75px;
+}
+h1 {
+    color: #333;
+    font-family: "Georgia";
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+}
+hr + p {
+    color: #333;
+    font-family: "Georgia";
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+    background-color: #fff;
+    display: block;
+    width: 204px;
+    margin: 0 auto;
+    margin-top: -18px;
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+ul li {
+    width: 19%;
+    margin: 1%;
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: center;
+    margin-left: -.36em;
+}
+ul li:first-child {
+    margin-left: 0;
+}
+img {
+    vertical-align: bottom;
+}
+hr {
+    width: 586px;
+    
+}
+li p {
+    font-family: "Helvetica";
+    color: #946C42;
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin-top: 25px;
+    
+}
+
+p + p {
+    color: #B7926C;
+    font-size: 10px;
+    margin-top: 3px;
+    font-style: italic;
+}

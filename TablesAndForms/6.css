@@ -1,0 +1,41 @@
+form {
+    border: 1px dashed #767676;
+    width: 260px;
+    height: 260px;
+    border-radius: 50%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 30px;
+}
+
+input {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    
+ 
+}
+fieldset {
+    border: none;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 30px;
+}
+
+input[type="submit"] {
+    width: 140px;
+    height: 36px;
+    padding: 10px;
+    background: #FE9900;
+    color: white;
+    text-decoration: none;
+    font: 1em Arial,sans-serif;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+label {
+    font: 1em Arial,sans-serif;
+    padding: 10px ;
+    
+}
